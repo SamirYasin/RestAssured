@@ -1,0 +1,21 @@
+[TRACE] 2023-03-11 13:09:14.497 [main] Log4JAppender - Logging with trace
+[DEBUG] 2023-03-11 13:09:14.498 [main] Log4JAppender - Logging with debug
+[INFO ] 2023-03-11 13:09:14.498 [main] Log4JAppender - Logging with info
+[WARN ] 2023-03-11 13:09:14.498 [main] Log4JAppender - Logging with warn
+[ERROR] 2023-03-11 13:09:14.499 [main] Log4JAppender - Logging with error
+[FATAL] 2023-03-11 13:09:14.499 [main] Log4JAppender - Logging with fatal
+[TRACE] 2023-03-11 13:09:52.562 [main] Log4JAppender - Logging with trace
+[DEBUG] 2023-03-11 13:09:52.565 [main] Log4JAppender - Logging with debug
+[INFO ] 2023-03-11 13:09:52.565 [main] Log4JAppender - Logging with info
+[WARN ] 2023-03-11 13:09:52.565 [main] Log4JAppender - Logging with warn
+[ERROR] 2023-03-11 13:09:52.566 [main] Log4JAppender - Logging with error
+[FATAL] 2023-03-11 13:09:52.566 [main] Log4JAppender - Logging with fatal
+[INFO ] 2023-03-11 15:25:21.588 [main] ReadingFromExcelFile - First name from the first cell is Tech Global
+[INFO ] 2023-03-11 15:25:28.377 [main] ReadingFromExcelFile - First name from the first cell is Tech Global
+[INFO ] 2023-03-11 15:30:22.111 [main] ReadingFromExcelFile - First name from the first cell is: Tech Global
+[INFO ] 2023-03-11 15:30:22.115 [main] ReadingFromExcelFile - The second Id value is: 2.0
+[INFO ] 2023-03-12 00:20:07.536 [main] ReadingFromExcelFile - First name from the first cell is: STRING
+[INFO ] 2023-03-12 00:20:07.539 [main] ReadingFromExcelFile - The second Id value is: 2.0
+[DEBUG] 2023-03-12 01:05:38.020 [main] TGPost - Starting the API test
+[DEBUG] 2023-03-12 01:05:38.238 [main] TGPost - Starting the POST test
+[DEBUG] 2023-03-12 01:05:39.867 [main] TGPost - Starting the DELETE test

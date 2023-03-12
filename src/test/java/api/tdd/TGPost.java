@@ -67,8 +67,9 @@ public class TGPost {
 
 
         int postId = response.jsonPath().getInt("id");
-
+//
         logger.debug("Starting the DELETE test");
+
 
 
         response = RestAssured
